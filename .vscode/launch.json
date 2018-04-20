@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "C:\\projects\\number-theory\\galoisfields.html",
+            "url": "C:\\projects\\number-theory\\groups.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
