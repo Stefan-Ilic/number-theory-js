@@ -1,8 +1,5 @@
 
 window.onload = function(){
-  /**
-   * Just Make sure to return false so that your request will not go the server script
-   */
   document.getElementById('fieldForm').onsubmit = function(){
 
     var size = document.getElementById('sizeInput').value;
